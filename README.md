@@ -2,7 +2,7 @@
 
 👋 Hello, this repository is for my assessment in Intro to Computing. 
 
-Link to [GitHub Pages](https://mndrew.github.io/Intro-To-Computing_Blog/).
+Link to <a href="https://mndrew.github.io/Intro-To-Computing_Blog/" target="_blank">GitHub Pages</a>.
 
 ## Screenshot
 
